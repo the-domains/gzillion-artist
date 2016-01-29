@@ -1,29 +1,41 @@
-name: Gzillion Artist
-favicon: null
-layout_spectrum: 0.4991
-typography_spectrum: 0.5621466594748199
 title: Gzillion Artist
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: Gzillion Artist
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.4713322
+  rhythmicContrast: 1
   brandColors:
     - '#0f0f11'
     - '#d3c3b3'
     - '#a59586'
     - '#827262'
     - '#4c4439'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.5286678
