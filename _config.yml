@@ -1,16 +1,16 @@
 title: Gzillion Artist
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 layout_spectrum: 1
 favicon: null
 name: Gzillion Artist
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -30,7 +30,7 @@ collections:
 color:
   brandStrength: 1
   lightness: 1
-  saturation: 0.4713322
+  saturation: 1
   rhythmicContrast: 1
   brandColors:
     - '#0f0f11'
@@ -38,4 +38,4 @@ color:
     - '#a59586'
     - '#827262'
     - '#4c4439'
-typography_spectrum: 0.5286678
+typography_spectrum: 0.005902192
